@@ -1,0 +1,13 @@
+7 7 1
+@@@@@@@
+@@W...@
+@...@@@
+@.....@
+@@@@@.@
+@.....@
+@@@@$@@
+
+
+
+What is the purpose of this map
+for your own testing or sanity?

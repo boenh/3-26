@@ -1,0 +1,15 @@
+5 4 1
+@@@@
+W.@$
+@...
+...@
+@..@
+
+What is this map?
+Easy 1 room map
+The coin IS reachable
+relatively small
+
+everything below the last valid row is
+ignored by the program (which you will 
+write)
